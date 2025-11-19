@@ -36,7 +36,7 @@ The page is designed as a "one-pager" – everything in one HTML file, ideal for
 ## Installation & Setup
 
 1. Clone the repository:
-> git clone https://github.com/yourusername/yourrepo.git
+> git clone https://github.com/fabianzimber/hormone-compendium.git
 2. Open `index.html` in your browser.
 3. (Optional) Deploy to GitHub Pages:
 - Go to Repository Settings > Pages.
